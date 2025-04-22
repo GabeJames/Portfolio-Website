@@ -1,8 +1,11 @@
 h1{
-    color: aquamarine}
+    color: #777878}
+div { background-color: gold;
+width: 400px;}
+p {color: goldenrod;
+}
+h2 {color: #777878;}
+h3 { color: #777878;font-style: italic;}
 
-p {color: chocolate}
-
-h3 { color: red;font-style: italic;}
-
-.sum {background-color: black}
+.sum {background-color: black;
+}
